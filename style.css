@@ -1,0 +1,73 @@
+#main {
+  background: #00bda3;
+  font-size: 2.25em;
+}
+
+.nav-container {
+  background: #4DE3CE;
+}
+
+.image-container {
+  
+}
+
+#nav {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  background-color: #4DE3CE;
+  color: #D3ECE9;
+  font-size: 30px;
+ }
+
+#img-div {
+  background-color: #00bda3;
+  align: center;
+  margin: auto;
+  max-width: 30%;
+}
+
+#image {
+  display: block;
+  align: center;
+  justify: center;
+  height: auto;
+  max-width: 400px;
+  margin: auto;
+}
+
+#img-caption {
+  text-align: center;
+  color: #D3ECE9;
+  font-size: 20px;
+}
+
+#accolades {
+  font-size: 25px; 
+  margin: 50px;
+  color: #003931;
+}
+
+#accoladesWrapper {
+  background-color: #D3ECE9;
+  border: solid 3px #003931;
+}
+
+#accoladesList {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #003931;
+  
+}
+
+h1 {
+  text-decoration: underline; 
+}
+
+p {
+  text-indent: 5%;
+}
